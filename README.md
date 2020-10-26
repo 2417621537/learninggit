@@ -1,2 +1,0 @@
-# learninggit
-to learn git
